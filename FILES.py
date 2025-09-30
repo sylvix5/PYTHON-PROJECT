@@ -13,7 +13,7 @@ def main():
     ghana_df.to_csv("ghana_cocoa.csv", index=False)
     civ_df.to_csv("civ_cocoa.csv", index=False)
 
-    print("✅ Files saved: ghana_cocoa.csv and civ_cocoa.csv")
+    print(" Files saved: ghana_cocoa.csv and civ_cocoa.csv")
 
 
     return 0
